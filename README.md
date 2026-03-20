@@ -15,10 +15,10 @@
 ### 我的技术栈 | Tech Stack
 
 - **AI 与数据**
-  `LangGraph` `RAG` `AIGC` `Prompt工程` `数据管理` `Benchmark搭建`
+  `LangGraph` `RAG` `AIGC` `LORA` `Prompt工程` `数据管理` `Benchmark搭建`
 
 - **计算机视觉**
-  `YOLO` `SAM` `OpenCV` `OCR` `图像增强算法`
+  `YOLO` `SAM` `OpenCV` `OCR` `Stable Diffusion` `图像增强算法`
 
 - **机器人与算法**
   `坐标变换` `卡尔曼滤波` `点云配准` `运动学标定`
